@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dastreeter
 - 👀 I’m interested in ... Mathlab xDDDDDD
-- 🌱 I’m currently learning ... Python 
+- 🌱 I’m currently learning ... Python and node.js
 - 💞️ I’m looking to collaborate on ... Solo
 - 📫 How to reach me ... You don't
 
